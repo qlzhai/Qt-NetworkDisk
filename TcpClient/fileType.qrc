@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>map/document.png</file>
+        <file>map/folder.png</file>
+    </qresource>
+</RCC>

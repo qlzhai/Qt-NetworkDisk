@@ -1,0 +1,11 @@
+release/main.o
+release/TcpServer.o
+release/mytcpserver.o
+release/mytcpsocket.o
+release/opedb.o
+release/protocol.o
+release/qrc_config.o
+release/moc_TcpServer.o
+release/moc_mytcpserver.o
+release/moc_mytcpsocket.o
+release/moc_opedb.o
